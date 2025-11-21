@@ -7,9 +7,7 @@ export default function Page() {
         🔐 Encryption Generator
       </h1>
       <EncryptionForm />
-      <p className="mt-6 text-sm text-gray-500">
-        Made with ❤️ using Next.js + TypeScript
-      </p>
+
     </main>
   );
 }
